@@ -1,2 +1,3 @@
 # project - Deep Learning 
-This is a MIT course which introduce the basic of deep learning and several areas of the current cutting-edge researchs. 
+This MIT course introduces the basics of deep learning and several areas of current cutting-edge research. 
+This change was made directly on GitHub. 
